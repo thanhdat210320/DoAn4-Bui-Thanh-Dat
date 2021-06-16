@@ -16,6 +16,8 @@
                     <div class="beta-products-list">
                         <h4>Sản Phẩm Tìm Thấy</h4>
              
+
+                        
                         <div class="row">
                             @foreach ($prod_list as $prod_l)
                             <div class="col-sm-4">
